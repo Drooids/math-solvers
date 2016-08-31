@@ -12,9 +12,3 @@ int es_factorial(int value)
 
 	return factorial;
 }
-
-int main()
-{
-}
-
-

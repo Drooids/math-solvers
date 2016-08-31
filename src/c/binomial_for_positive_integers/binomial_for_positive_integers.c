@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../../common/math/essencial.h"
+#include "essencial.h"
 
 int main()
 {
