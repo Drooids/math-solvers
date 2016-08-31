@@ -1,0 +1,12 @@
+# Requirements
+
+## Linux
+Nothing
+
+## Windows
+
+### Gnu coreutils
+- http://sourceforge.net/projects/gnuwin32/files/coreutils/5.3.0/coreutils-5.3.0.exe/download
+
+### Gnu Make
+- Google it

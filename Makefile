@@ -11,9 +11,8 @@ essencial.o
 
 _rebuildable = $(_objects) $(_target)
 
-clean:
-	rm -f $(_bin)/*
-	echo Cleaned
-
 all:
 	gcc -Isrc/common/math/ src/c/binomial_for_positive_integers/binomial_for_positive_integers.c src/common/math/essencial.c -o $(_target)
+
+clean:
+	rm -rf bin/*
